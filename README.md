@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Black%20and%20White%20PC%20Wallpaper%204K.jfif" />
+  <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Black%20and%20White%20PC%20Wallpaper%204K.jfif" alt="Ryukiken Banner" width="100%" />
 </p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Selamat+datang+di+Quest-ku!;Developer+IT+%7C+Otaku+Sejati;Level+Baru,+Tantangan+Baru!;Mari+Berteman+di+Guild+Ini!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=20&pause=1000&color=FF1493&center=true&vCenter=true&width=800&height=100&lines=LOADING+DIGITAL+UNIVERSE...;>_INITIALIZING_PLAYER:_RYUKIKEN...;STATUS:_ONLINE_&_CODING;CURRENT_OBJECTIVE:_BUILD_EPIC_STUFF;PRESS_START_TO_COLLABORATE..." alt="Typing SVG Game Edition" />
   </a>
 </div>
 
@@ -28,7 +28,7 @@
 ### 🛠️ KOTAK ALAT & KETERAMPILAN
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,java,figma,github,git,vercel,tailwind&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,java,figma,github,git,vercel,tailwind&theme=dark" alt="Tech Stack Icons" />
   </a>
   <p>
     <img src="https://api.iconify.design/game-icons/swords-power.svg?height=40" width="40" alt="Ikon Kekuatan" /> 
@@ -51,14 +51,22 @@
 
 ---
 
-### 📊 PAPAN PERINGKAT PEMAIN (Statistik GitHub)
+### 📊 PAPAN PERINGKAT & ACHIEVEMENTS
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ryukiken&show_icons=true&theme=nord&hide_border=true&bg_color=1F243A" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukiken&layout=compact&theme=nord&hide_border=true&bg_color=1F243A" alt="Top Languages" width="48%" />
+  <a href="https://github.com/ryukiken/github-trophies">
+    <img src="https://github-trophies.vercel.app/?username=Ryukiken&theme=radical&no-bg=true&margin-w=10" alt="Ryukiken's Trophies" width="97%" />
+  </a>
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryukiken&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF" alt="GitHub Stats Radical Theme" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukiken&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF" alt="Top Languages Radical Theme" width="48%" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ryukiken&theme=nord&hide_border=true&bg_color=1F243A" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ryukiken&theme=radical&hide_border=true&bg_color=0D1117&ring=FF1493&fire=FF1493&currStreakLabel=36BCF7" alt="GitHub Streak Radical Theme" width="97%" />
 </p>
 
 ---
