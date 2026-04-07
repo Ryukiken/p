@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=WELCOME+TO+RYUKIKEN+QUEST;LEVEL+UP+YOUR+CODE;GAME+%26+WEB+DEVELOPER" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=180E86&center=true&vCenter=true&width=600&lines=WELCOME+TO+RYUKIKEN+QUEST;LEVEL+UP+YOUR+CODE;GAME+%26+WEB+DEVELOPER" />
   
   <img align="right" src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Kururin%20Kuru%20Kuru%20GIF%20-%20Kururin%20Kuru%20Kuru%20Herta%20-%20Descubre%20y%20comparte%20GIF.gif" height="90px" width="90px">
   <img align="left" src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Kururin%20Kuru%20Kuru%20GIF%20-%20Kururin%20Kuru%20Kuru%20Herta%20-%20Descubre%20y%20comparte%20GIF.gif" height="90px" width="90px">
