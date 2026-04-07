@@ -12,7 +12,7 @@
 
 ### 🎮 STATUS KARAKTER
 <div align="center">
-  <img src="https://api.iconify.design/pixelarticons/character.svg?height=100" width="100" align="right" alt="Karakter Piksel" />
+  <img src="[https://api.iconify.design/pixelarticons/character.svg?height=100](https://github.com/Ryukiken/Ryukiken/blob/main/Kururin%20Kuru%20Kuru%20GIF%20-%20Kururin%20Kuru%20Kuru%20Herta%20-%20Descubre%20y%20comparte%20GIF.gif)" width="100" align="right" alt="Karakter Piksel" />
   <p align="left">
     <strong>Level:</strong> Mahasiswa IT (Level 3)<br>
     <strong>Sub-Kelas:</strong> Pengembang Web (Frontend) & Pembuat Game<br>
