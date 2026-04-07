@@ -134,6 +134,9 @@ infokita-app/
   <img src="https://komarev.com/ghpvc/?username=Ryukiken&color=blueviolet&style=pixel">
 </div>
 
+  <img src="https://komarev.com/ghpvc/?username=Ryukiken&label=Profile%20Views&color=00BFFF&style=flat-square" />
+</p>
+
 ### Professional Recognition
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-Collaborator-181717?style=flat-square&logo=github" alt="GitHub Collaborator" />
