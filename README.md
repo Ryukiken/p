@@ -133,3 +133,11 @@ infokita-app/
   <br>
   <img src="https://komarev.com/ghpvc/?username=Ryukiken&color=blueviolet&style=pixel">
 </div>
+
+### Professional Recognition
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-Collaborator-181717?style=flat-square&logo=github" alt="GitHub Collaborator" />
+  <img src="https://img.shields.io/badge/Pijak%20Collaboration%20with%20IBM%20SkillsBuild-AI%20Specialist-blueviolet?style=flat-square&logo=ibm&labelColor=FF69B4" alt="Pijak IBM Badge" />
+  <img src="https://img.shields.io/badge/HMTI-Research%20%26%20Tech%20Lead-0077B5?style=flat-square" alt="HMTI Lead" />
+</p>
+
