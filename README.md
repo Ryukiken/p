@@ -27,7 +27,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/mioffice_animation_mioffice.gif" width="100%"> 
+  <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/mioffice_animation_mioffice.gif" width="70%"> 
 </div>
 
 <br>
