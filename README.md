@@ -27,7 +27,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/mioffice_animation_mioffice.gif" width="70%"> 
+  <img src="https://github.com/Ryukiken/Ryukiken/blob/main/I'll%20just%20leave%20some%20pixel%20art%20GIFs%20here_%20-%20Album%20on%20Imgur.gif" width="70%"> 
 </div>
 
 <br>
