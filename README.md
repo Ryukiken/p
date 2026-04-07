@@ -255,13 +255,4 @@ infokita-app/
       </td>
     </tr>
   </table>
-  <p>Jangan pernah menyerah pada Quest Anda! <img src="https://api.iconify.design/twemoji/party-popper.svg?height=20" width="20" alt="Popper" /> </p>
-  <img src="https://api.iconify.design/openmoji/otaku.svg?height=50" width="50" alt="Ikon Otaku" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ryukiken&color=36BCF7&style=pixel" alt="Profile Views" />
-</div>
-
+  
