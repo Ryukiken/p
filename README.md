@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Ryukiken;Software+%26+Game+Developer;Based+in+Indonesia;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4646F6&center=true&vCenter=true&width=600&lines=Ryukiken;Software+%26+Game+Developer;Based+in+Indonesia;Always+Learning+New+Tech" />
 </div>
 
 <h3 align="center">🔖 A Passionate Software Developer based in Indonesia</h3>
