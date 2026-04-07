@@ -62,25 +62,15 @@
 <pre>
 
 infokita-app/
-
 ├── public/
-
 │   ├── assets/
-
 │   └── index.html
-
 ├── src/
-
 │   ├── components/
-
 │   ├── views/
-
 │   ├── services/
-
 │   └── App.js
-
 ├── package.json
-
 └── tailwind.config.js
 
 </pre>
