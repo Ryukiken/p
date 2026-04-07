@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/garis%20warna" width="100%" height="8px" />
+  <img src="[https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/garis%20warna](https://github.com/Ryukiken/Ryukiken/blob/main/singularity.py)" width="100%" height="8px" />
 </div>
 
 <br>
