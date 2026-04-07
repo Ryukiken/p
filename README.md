@@ -121,13 +121,10 @@ amazing-adventure/
 
 <div align="center">
   <h3>📊 <b>Player Statistics</b></h3>
-
-  <!-- STATS UTAMA (SUDAH FIX + CACHE) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ryukiken&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" width="48%">
-
-  <!-- TOP LANG -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukiken&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="41%">
-
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ryukiken&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ryukiken&layout=compact&theme=radical&hide_border=true" width="41%" />
+</div>
 </div>
 
 <br>
