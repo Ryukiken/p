@@ -229,19 +229,19 @@ infokita-app/
   <table align="center" style="border-collapse: collapse; border: none;">
     <tr>
        <td style="padding: 10px; border: none;">
-        <img src="https://github.com/Ryukiken/Ryukiken/blob/main/Dance%20Anime%20Sticker%20%E2%80%93%20Dance%20Anime%20Bluesechi%20%E2%80%93%20discover%20and%20share%20GIFs.gif" width="90px" alt="Kururu GIF 1" />
+        <img src="https://github.com/Ryukiken/Ryukiken/blob/main/Dance%20Anime%20Sticker%20%E2%80%93%20Dance%20Anime%20Bluesechi%20%E2%80%93%20discover%20and%20share%20GIFs.gif" width="100px" alt="Kururu GIF 1" />
       </td>
       <td style="padding: 10px; border: none;">
-        <img src="https://github.com/Ryukiken/Ryukiken/blob/main/Furina%20Sticker%20-%20Furina%20-%20Discover%20%26%20Share%20GIFs.gif" width="70px" alt="Kururu GIF 2" />
+        <img src="https://github.com/Ryukiken/Ryukiken/blob/main/Furina%20Sticker%20-%20Furina%20-%20Discover%20%26%20Share%20GIFs.gif" width="100px" alt="Kururu GIF 2" />
       </td>
       <td style="padding: 10px; border: none;">
-        <img src="https://github.com/Ryukiken/Ryukiken/blob/main/Agnes%20Tachyon%20Uma%20Musume%20GIF%20-%20Agnes%20tachyon%20Uma%20musume%20Low%20cortisol%20-%20Temukan%20%26%20Bagikan%20GIF.gif" width="70px" alt="Kururu GIF 3" />
+        <img src="https://github.com/Ryukiken/Ryukiken/blob/main/Agnes%20Tachyon%20Uma%20Musume%20GIF%20-%20Agnes%20tachyon%20Uma%20musume%20Low%20cortisol%20-%20Temukan%20%26%20Bagikan%20GIF.gif" width="100px" alt="Kururu GIF 3" />
       </td>
       <td style="padding: 10px; border: none;">
-        <img src="https://github.com/Ryukiken/Ryukiken/blob/main/download.gif" width="90px" alt="Kururu GIF 4" />
+        <img src="https://github.com/Ryukiken/Ryukiken/blob/main/download.gif" width="100px" alt="Kururu GIF 4" />
       </td>
       <td style="padding: 10px; border: none;">
-        <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Kururin%20Kuru%20Kuru%20GIF%20-%20Kururin%20Kuru%20Kuru%20Herta%20-%20Descubre%20y%20comparte%20GIF.gif" width="90px" alt="Kururu GIF 5" />
+        <img src="https://raw.githubusercontent.com/Ryukiken/Ryukiken/main/Kururin%20Kuru%20Kuru%20GIF%20-%20Kururin%20Kuru%20Kuru%20Herta%20-%20Descubre%20y%20comparte%20GIF.gif" width="100px" alt="Kururu GIF 5" />
       </td>
     </tr>
   </table>
