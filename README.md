@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=8CC2F7&center=true&vCenter=true&width=600&lines=WELCOME+TO+RYUKIKEN+QUEST;LEVEL+UP+YOUR+CODE;GAME+%26+WEB+DEVELOPER" />
-  <img align="right" src="https://github.com/Ryukiken/Ryukiken/blob/main/kurukuru-honkai-star-rail.gif" height="90px" width="200px">
-  <img align="left" src="https://github.com/Ryukiken/Ryukiken/blob/main/kurukuru-honkai-star-rail.gif" height="90px" width="200px">
+  <img align="right" src="https://github.com/Ryukiken/Ryukiken/blob/main/kurukuru-honkai-star-rail.gif" height="90px" width="170px">
+  <img align="left" src="https://github.com/Ryukiken/Ryukiken/blob/main/kurukuru-honkai-star-rail.gif" height="90px" width="170px">
 </div>
 
 <div align="center">
